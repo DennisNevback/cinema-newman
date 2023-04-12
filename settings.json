@@ -1,0 +1,10 @@
+{
+  "serverPort": 4000,
+  "mySqlHost": "127.0.0.1",
+  "mySqlPort": 3306,
+  "database": "cinema2",
+  "mySqlUser": "root",
+  "mySqlPassword": "NewPassword",
+  "passwordSalt": "someHardToGuessStringYouNeverChange",
+  "sessionSalt": "someHardToGuessStringYouSeldomChange"
+}
